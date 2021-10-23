@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.info h2{
+    position: absolute;
+    width: 214px;
+    height: 43px;
+    background: #42DDB8;
+}
+
+.encabezado img{
+    position: absolute;
+    width: 100%;
+    height: 70px;
+    left: -364px;
+    top: -299px;
+    
+background: url(enzabezado.jpg);
+}
+
+.foto img{
+    position: absolute;
+    width: 161px;
+    height: 172px;
+    left: -121px;
+    top: -190px;
+
+    background: url(foto_michelle.jpg);
+    border-radius: 6px;
+}
+
+.nombre ul{
+    position: absolute;
+    width: 334px;
+    height: 164px;
+
+background: #42DDB8;
+}
+
+.nombre1 h1{
+    position: absolute;
+    width: 246px;
+    height: 34px;
+    left: -159px;
+    top: 1px;
+
+background: #42DDB8;
+}
+
+.grupo1 {
+    position: absolute;
+    width: 577px;
+    height: 79px;
+    left: -325px;
+    top: 59px;
+}
+
+.grupo2 {
+    position: absolute;
+    width: 590px;
+    height: 180px;
+    left: -329px;
+    top: 151px;
+}
+
+.grupo3 {
+    position: absolute;
+    width: 581px;
+    height: 42px;
+    left: -329px;
+    top: 340px;
+
+background: #C4C4C4;
+}
+
+.grupo4 {
+    position: absolute;
+    width: 606px;
+    height: 223px;
+    left: -338px;
+    top: 394;
+}
+
+.grupo5 {
+    position: absolute;
+    width: 496px;
+    height: 50px;
+    left: -296px;
+    top: 626px;
+}
